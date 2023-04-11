@@ -5,6 +5,7 @@ public class NewTest {
 
     @Test
     void NewTest() {
+        System.out.println("test");
         Assertions.assertTrue(3>2)
     }
 }
